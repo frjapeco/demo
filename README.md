@@ -1,13 +1,9 @@
-# demo
+# stratio-wars
 
 Solution provided for the Stratio Wars code challenge. This project is managed by **sbt** so the following commands will be necessary:
 
-Run app:
-```
-run
-```
+First update project dependencies:```update```
 
-Execute tests:
-```
-it:tests
-```
+Run app:```run```
+
+Execute tests:```it:tests```
